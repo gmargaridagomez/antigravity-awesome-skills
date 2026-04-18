@@ -21,7 +21,7 @@
     "framer-motion": "^12.34.2",
     "github-markdown-css": "^5.9.0",
     "highlight.js": "^11.11.1",
-    "lucide-react": "^0.574.0",
+    "lucide-react": "^0.577.0",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
     "react-markdown": "^10.1.0",
