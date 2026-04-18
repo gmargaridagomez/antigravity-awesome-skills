@@ -16,7 +16,7 @@
     "test:coverage": "vitest run --coverage"
   },
   "dependencies": {
-    "@supabase/supabase-js": "^2.98.0",
+    "@supabase/supabase-js": "^2.100.1",
     "clsx": "^2.1.1",
     "framer-motion": "^12.34.2",
     "github-markdown-css": "^5.9.0",
